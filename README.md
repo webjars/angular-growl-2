@@ -1,5 +1,5 @@
-WebJar for angular-growl
+WebJar for angular-growl-v2
 
 More info: http://webjars.org
 
-Upstream: https://github.com/marcorinck/angular-growl
+Upstream: https://github.com/JanStevens/angular-growl-2
