@@ -10,10 +10,10 @@
 
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
-    <artifactId>angular-growl-v2</artifactId>
-    <version>0.6.0</version>
-    <name>angular-growl-v2</name>
-    <description>WebJar for angular-growl-v2</description>
+    <artifactId>angular-growl-2</artifactId>
+    <version>0.6.0-SNAPSHOT</version>
+    <name>angular-growl-2</name>
+    <description>WebJar for angular-growl-2</description>
     <url>http://webjars.org</url>
 
     <properties>
@@ -24,10 +24,10 @@
         <requirejs>
             {
                 "paths": {
-                    "angular-growl-v2": "angular-growl-v2"
+                    "angular-growl-2": "angular-growl"
                 },
                 "shim": {
-                    "angular-growl-v2": ["angular"]
+                    "angular-growl-2": ["angular"]
                 }
             }
         </requirejs>
